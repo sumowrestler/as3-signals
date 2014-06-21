@@ -58,13 +58,6 @@
   </build>
 
   <dependencies>
-<!--
-      <dependency>
-          <groupId>org.sonatype.flexmojos</groupId>
-          <artifactId>flexmojos-threadlocaltoolkit-wrapper</artifactId>
-          <version>${flexmojos.version}</version>
-      </dependency>
--->
       <dependency>
           <groupId>com.adobe.air.framework</groupId>
           <artifactId>common-framework</artifactId>
